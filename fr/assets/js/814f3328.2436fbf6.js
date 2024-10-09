@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchickenbot_web=self.webpackChunkchickenbot_web||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Cr\xe9ation de Chickenbot-web","permalink":"/fr/blog/chickenbot-web-creation","unlisted":false,"date":"2024-10-07T00:00:00.000Z"}]}')}}]);

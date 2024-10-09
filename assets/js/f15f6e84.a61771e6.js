@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchickenbot_web=self.webpackChunkchickenbot_web||[]).push([[846],{1482:(e,n,c)=>{c.r(n),c.d(n,{default:()=>h});c(6540);var s=c(7907),t=c(4848);function h(){return(0,t.jsxs)(s.A,{children:[(0,t.jsx)("h1",{children:"Bot download page"}),(0,t.jsx)("p",{children:"Please be patient ^^."})]})}}}]);
