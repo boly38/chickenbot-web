@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://boly38.github.io/chickenbot-web/blog</id>
     <title>Chickenbot-web Blog</title>
     <updated>2024-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://boly38.github.io/chickenbot-web/blog"/>
     <subtitle>Chickenbot-web Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://boly38.github.io/chickenbot-web/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Chickenbot-web creation]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/chickenbot-web-creation</id>
-        <link href="https://your-docusaurus-site.example.com/blog/chickenbot-web-creation"/>
+        <id>https://boly38.github.io/chickenbot-web/blog/chickenbot-web-creation</id>
+        <link href="https://boly38.github.io/chickenbot-web/blog/chickenbot-web-creation"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is a  current work-in-progress on building chickenbot website using docusaurus.]]></summary>
         <content type="html"><![CDATA[<p>This is a  <span style="background-color:#25c2a0;border-radius:20px;color:#fff;padding:10px">current work-in-progress on building chickenbot website</span> using docusaurus.</p>

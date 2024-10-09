@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Chickenbot-web Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://boly38.github.io/chickenbot-web/blog</link>
         <description>Chickenbot-web Blog</description>
         <lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Chickenbot-web creation]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/chickenbot-web-creation</link>
-            <guid>https://your-docusaurus-site.example.com/blog/chickenbot-web-creation</guid>
+            <link>https://boly38.github.io/chickenbot-web/blog/chickenbot-web-creation</link>
+            <guid>https://boly38.github.io/chickenbot-web/blog/chickenbot-web-creation</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a  current work-in-progress on building chickenbot website using docusaurus.]]></description>
             <content:encoded><![CDATA[<p>This is a  <span style="background-color:#25c2a0;border-radius:20px;color:#fff;padding:10px">current work-in-progress on building chickenbot website</span> using docusaurus.</p>
